@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/65155327/141988182-3499e9ce-decb-4c1c-a482-54d0aa877a07.png" alt="Failer" width="80%"></div>
+<img src="https://user-images.githubusercontent.com/65155327/141988182-3499e9ce-decb-4c1c-a482-54d0aa877a07.png" alt="Failer" width="60%"></div>
 <h2 align="left"> Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br> </h2>
   <p>I'm <b>MUKILAN</b>, First year CSE student at NSCET, Theni. I am  Self Taught Developer { FullStack Developer and Technology Enthusiast }.
   </p>
