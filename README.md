@@ -18,17 +18,14 @@
 ### ♾️  Github Stats:
 <br>
 <p align="center">
-  <a href="https://github.com/MUKILAN-2003"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=MUKILAN-2003&count_private=true&show_icons=true&theme=dark&&include_all_commits=true"/>
+  <a href="https://github.com/MUKILAN-2003">
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=MUKILAN-2003&show_icons=true&theme=dark"/>
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MUKILAN-2003&theme=dark" />
-    <br />
     <img align='center' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MUKILAN-2003&theme=monokai' />
     <!--(<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MUKILAN-2003&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>)-->
    
    <br />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKILAN-2003&theme=dark" />
-    
-    </span></a>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKILAN-2003&theme=dark" /></a>
    
 
 </p>
