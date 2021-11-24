@@ -35,7 +35,7 @@
 
 ### 📈 GitHub Activity:
 
-  <a href="https://github.com/MUKILAN-2003/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MUKILAN-2003&bg_color=1F222E&color=077FF7&line=07F763&point=FFFFFF&hide_border=true" /></a> 
+  <a href="https://github.com/MUKILAN-2003"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MUKILAN-2003&bg_color=1F222E&color=077FF7&line=07F763&point=FFFFFF&hide_border=true" /></a> 
 
 
 <br>
