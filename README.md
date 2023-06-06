@@ -88,8 +88,10 @@
 
 <p align="center">
   <a href="https://github.com/MUKILAN-2003">
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=MUKILAN-2003&show_icons=true&theme=dark"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MUKILAN-2003&theme=dark" />
+	  <div style='display: flex;justify-content:space-around;'>
+	  	<img height="48%" src="https://github-readme-stats.vercel.app/api?username=MUKILAN-2003&show_icons=true&theme=dark"/>
+    		<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MUKILAN-2003&theme=dark" />
+	  </div>
     <img align='center' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MUKILAN-2003&theme=monokai' />
 <!--     <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=MUKILAN-2003&layout=compact&theme=dark' /> -->
   </a>
