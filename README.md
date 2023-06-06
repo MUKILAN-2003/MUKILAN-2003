@@ -63,6 +63,7 @@
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+  ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 >IDES/EDITORS
 
@@ -80,23 +81,52 @@
   ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  
- 
+ > API
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+> IOT
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+> Blog
+
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
+> Developer / Forums
+
+![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+
 <hr>
 
 ### ♾️  Github Stats:
 <br>
 
 <p align="center">
-  <a href="https://github.com/MUKILAN-2003">
-	  <div style='display: flex;justify-content:space-around;'>
-	  	<img height="48%" src="https://github-readme-stats.vercel.app/api?username=MUKILAN-2003&show_icons=true&theme=dark"/>
-    		<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MUKILAN-2003&theme=dark" />
-	  </div>
-    <img align='center' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MUKILAN-2003&theme=monokai' />
-<!--     <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=MUKILAN-2003&layout=compact&theme=dark' /> -->
+  <a href="https://github.com/MUKILAN-2003">	
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=MUKILAN-2003&show_icons=true&theme=github_dark"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MUKILAN-2003&theme=github_dark" />
+    <img align='center' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MUKILAN-2003&theme=github_dark' />
+    <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=MUKILAN-2003&layout=compact&theme=github_dark' />
   </a>
 </p>
 
+<hr>
+
+### 🏆 GitHub Trophies:
+
+<br>
+<p align="center">
+ <a href="https://github.com/TENSHKUMAR-KKT-2004">
+  <img align='center' alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=MUKILAN-2003&theme=monokai&no-frame=false&no-bg=false&margin-w=4" />
+ </a> 
+</p>
 <hr>
 
 ### 👀 Visit Count:
