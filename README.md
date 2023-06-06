@@ -112,8 +112,8 @@
   <a href="https://github.com/MUKILAN-2003">	
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=MUKILAN-2003&show_icons=true&theme=github_dark"/>
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MUKILAN-2003&theme=github_dark" />
-    <img align='center' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MUKILAN-2003&theme=github_dark' />
     <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=MUKILAN-2003&layout=compact&theme=github_dark' />
+    <img align='center' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MUKILAN-2003&theme=github_dark' />
   </a>
 </p>
 
@@ -123,7 +123,7 @@
 
 <br>
 <p align="center">
- <a href="https://github.com/TENSHKUMAR-KKT-2004">
+ <a href="https://github.com/MUKILAN-2003">
   <img align='center' alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=MUKILAN-2003&theme=monokai&no-frame=false&no-bg=false&margin-w=4" />
  </a> 
 </p>
@@ -144,7 +144,7 @@
 ### 📈 GitHub Activity:
 
 <br>
-<a href="https://github.com/TENSHKUMAR-KKT-2004">
+<a href="https://github.com/MUKILAN-2003">
   <img align='center' alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MUKILAN-2003&theme=github-dark" />
 </a>
 <br>
