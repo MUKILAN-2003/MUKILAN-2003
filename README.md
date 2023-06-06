@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/65155327/141988182-3499e9ce-decb-4c1c-a482-54d0aa877a07.png" alt="Failer" width="60%"></div>
 <h2 align="left"> Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br> </h2>
-  <p>I'm <b>MUKILAN</b>, First year CSE student at NSCET, Theni. I am  Self Taught Developer { FullStack Developer and Technology Enthusiast }.
+  <p>I am a computer science engineer, graduate by the year 2025 with an enthusiasm to learn and work in Artificial Intelligence with ease. I am well versed using Deep Learning and Machine Learning techniques with hands-on experience. I am looking for an opportunity to develop my skills in ML Operations and utilize my skills and contribute to the society.
   </p>
 <br>
 
@@ -86,23 +86,33 @@
 ### ♾️  Github Stats:
 <br>
 
-
 <p align="center">
   <a href="https://github.com/MUKILAN-2003">
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=MUKILAN-2003&show_icons=true&theme=dark"/>
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MUKILAN-2003&theme=dark" />
     <img align='center' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MUKILAN-2003&theme=monokai' />
-    <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=MUKILAN-2003&layout=compact&theme=dark' />
+<!--     <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=MUKILAN-2003&layout=compact&theme=dark' /> -->
   </a>
 </p>
 
+<hr>
+
+### 👀 Visit Count:
+
+<br>
+<p align="center">
+ <a href="https://github.com/MUKILAN-2003">
+    <img src="https://visitcount.itsvg.in/api?id=MUKILAN-2003&label=Profile%20Views&color=12&icon=2&pretty=true" />
+ </a> 
+</p>
 <hr>
 
 <br>
 
 ### 📈 GitHub Activity:
 
-  <a href="https://github.com/MUKILAN-2003"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MUKILAN-2003&bg_color=1F222E&color=077FF7&line=07F763&point=FFFFFF&hide_border=true" /></a> 
-
-
+<br>
+<a href="https://github.com/TENSHKUMAR-KKT-2004">
+  <img align='center' alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MUKILAN-2003&theme=github-dark" />
+</a>
 <br>
